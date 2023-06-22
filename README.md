@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Viraj Tharindu</h1>
-<h3 align="center">A Computer Engineering Undergraduate from Sri Lanka</h3>
+<h3 align="center">A Computer Engineering Fresh graduate from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virajtp&label=Profile%20views&color=0e75b6&style=flat" alt="virajtp" /> </p>
 
